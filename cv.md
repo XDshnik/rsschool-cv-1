@@ -9,7 +9,7 @@
  I tried myself as a layout designer, created and laid out the main menu of the site. [*my_first_try*](https://alexeybobkovv.github.io/First-try/)
  With my friends I programmed my robot in arduino for a college competition.
  * ## Code examples 
-  * [*15-game*](https://alexeybobkovv.github.io/15th-Game/) - a game made by me in an attempt to catch up with the course program
-  * [*momentum*](https://rolling-scopes-school.github.io/alexeybobkovv-JS2020Q3/momentum/) - one of the programs to which I have a link from the previous set
+ [*15-game*](https://alexeybobkovv.github.io/15th-Game/) - a game made by me in an attempt to catch up with the course program
+ [*momentum*](https://rolling-scopes-school.github.io/alexeybobkovv-JS2020Q3/momentum/) - one of the programs to which I have a link from the previous set
  * ## Englih level 
  My english level is B1 - B2
