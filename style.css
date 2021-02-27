@@ -1,0 +1,26 @@
+p {
+    display: block;
+    -webkit-margin-before: 1__qem;
+    -webkit-margin-after: 1__qem;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67__qem;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    font-weight: bold
+}
+
+.center {
+    max-width: 1012px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
