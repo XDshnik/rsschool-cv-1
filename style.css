@@ -24,3 +24,14 @@ h1 {
     justify-content: center;
     margin: 0 auto;
 }
+
+.name_and_avatar {
+    display: flex;
+}
+
+.avatar {
+    height: 150px;
+    width: 150px;
+
+    margin-left: 50px;
+}
