@@ -1,0 +1,63 @@
+p {
+    display: block;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    margin: 0;
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67__qem;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    font-weight: bold
+}
+
+body {
+    max-width: 1012px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.name_and_avatar {
+    display: flex;
+
+    margin-top: 100px;
+}
+
+.avatar {
+    height: 150px;
+    width: 150px;
+
+    position: relative;
+    left: 50px;
+
+    border-radius: 100%;  
+}
+
+.footer {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+}
+
+.git_acc {
+    margin: 0px 19px;
+}
+
+.link {
+    position: relative;
+    left: 600px;
+}
+
+.rs_avatar {
+    width: 100px;
+    height: 100px;
+
+
+}
